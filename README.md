@@ -1,8 +1,8 @@
 # 📘 Lista Duplamente Encadeada em TypeScript
 
-### **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
-### **Professor(a):** *[Jonathas Jivago]*  
-### **Aluno:** *[Francisco Mailson da Silva Sousa]*  
+### **Curso:** Análise e Desenvolvimento de Sistemas (ADS) 🖥️
+### **Professor(a):** Jonathas Jivago 🧑‍🏫 
+### **Aluno:** Francisco Mailson da Silva Sousa 📗 
 
 ---
 
