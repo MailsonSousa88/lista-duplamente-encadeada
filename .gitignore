@@ -1,0 +1,28 @@
+# Arquivos compilados
+dist/
+build/
+
+# Dependências
+node_modules/
+
+# Arquivos temporários
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache do TypeScript
+*.tsbuildinfo
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Config do editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
